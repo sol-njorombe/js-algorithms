@@ -7,7 +7,10 @@
     "test": "mocha"
   },
   "license": "ISC",
-  "dependencies": {},
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "performance-now": "^2.1.0"
+  },
   "devDependencies": {
     "chai": "^4.1.2",
     "mocha": "^5.2.0"

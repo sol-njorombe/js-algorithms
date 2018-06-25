@@ -1,5 +1,5 @@
 const assert = require('chai').assert;
-const sort = require('../sorting/index');
+const sort = require('../02_sorting');
 
 const arr = [3,2,1];
 const result = [1,2,3,];
