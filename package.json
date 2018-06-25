@@ -1,0 +1,15 @@
+{
+  "name": "js_algorithms",
+  "version": "1.0.0",
+  "description": "A collection of javascript implementations of popular computer science algorithms",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.2.0"
+  }
+}

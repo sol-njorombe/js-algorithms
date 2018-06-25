@@ -1,0 +1,35 @@
+# Sorting Algorithms
+For each of these algorithms there would be minore tweaks. The exaplanations below are specific to this implementation.
+
+## Bubble Sort
+Starting from the right, compares the right value to the left value. If the right value is smaller, it swaps the two then decrements the j index, until the smallest number is in the i-th position. 
+
+Complexity O(n^2)
+
+## Selection Sort
+It goes through the whole array, finds the smallest value then swaps it to the i-th index position
+
+Complexity O(n^2)
+
+## Insertion Sort
+Starting with index i as the first element of the array, set j to the next element and if it is smaller than i, find the right position for it in the left of the array. 
+
+Complexity O(n^2)
+
+## Merge sort
+Use the divide and conquer strategy to split that array until we are comparing two values ata a time. Then we merge the arrays. On merging we check for the smaller values that come first in the array in a sorted order. we recursively merge arrays until we recreated the whole array in a sorted order. 
+
+Complexity O(n log n)
+
+## Quick Sort
+Pick a number as a pivot, scan for numbers larger than  the pivot from the left, and number greater than the pivot from the right. swap the smaller and the bigger number. After the indexes for the smaller and the bigger number meet, swap the pivot to the position and the repeat the process for the left and the right side of the array. 
+
+Worst time complexity O(n ^ 2)
+Average time complexity O(n log n) - almost always guaranteed. 
+
+## Heap Sort
+Based on binary heap data structure. 
+
+*Binary heap* - It is a complete binary tree where items are stored in a specifc order, ie. the parent is always greater(max heap) or smaller(min heap) than the values of its two children nodes.
+
+[reference](https://www.geeksforgeeks.org/heap-sort/)
