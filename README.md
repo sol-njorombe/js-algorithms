@@ -9,12 +9,12 @@ This project is meant for implemntation of popular algorithms and perform algori
 4. To run tests `npm test`
 These algorithms include: 
 
-## [Search Algorithms](https://github.com/sxnjorombe/js-algorithms/blob/master/01_search/1.search.md)
+## [Search Algorithms](/01_search/1.search.md)
 
 1. Linear Sort
 2. Binary Sort
 
-## [Sorting algorithms](https://github.com/sxnjorombe/js-algorithms/blob/master/02_sorting/1.sort.md)
+## [Sorting algorithms](/02_sorting/1.sort.md)
 
 1. Bubble Sort
 2. Selection Sort
@@ -22,3 +22,27 @@ These algorithms include:
 4. Merge sort
 5. Quick sort
 6. Heap Sort
+
+## [Arrays](/03_arrays/1.arrays.md)
+
+A look into a number of arrays operations
+1. search
+2. Insert
+3. delete
+4. successor
+5. predecessor
+6. minimum
+7. maximum
+
+## [Linked Lists](/04_linked_lists/1.linkedLists.md)
+A look into a number or Linked lists operations
+1. search
+2. Insert
+3. delete
+4. successor
+5. predecessor
+6. minimum
+7. maximum
+
+## [Trees](/05_trees/1.trees.md)
+1. Binary Search Tree
