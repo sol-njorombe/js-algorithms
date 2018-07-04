@@ -9,12 +9,12 @@ This project is meant for implemntation of popular algorithms and perform algori
 4. To run tests `npm test`
 These algorithms include: 
 
-## [Search Algorithms](https://github.com/sxnjorombe/js-algorithms/blob/master/searching/1.search.md)
+## [Search Algorithms](https://github.com/sxnjorombe/js-algorithms/blob/master/01_search/1.search.md)
 
 1. Linear Sort
 2. Binary Sort
 
-## [Sorting algorithms](https://github.com/sxnjorombe/js-algorithms/blob/master/sorting/1.sort.md)
+## [Sorting algorithms](https://github.com/sxnjorombe/js-algorithms/blob/master/02_sorting/1.sort.md)
 
 1. Bubble Sort
 2. Selection Sort
