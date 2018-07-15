@@ -45,8 +45,7 @@ class List{
   }
 }
 
-let myList = new List(100);
-// console.log(myList);
-console.log(myList.traverse());
-// myList.deleteNode(12);
-// console.log(myList.traverse());
+
+module.exports = {
+  List
+}
