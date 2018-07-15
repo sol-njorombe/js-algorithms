@@ -19,3 +19,7 @@ class Stack{
     return this.store.length;
   }
 }
+
+module.exports = {
+  Stack
+}
